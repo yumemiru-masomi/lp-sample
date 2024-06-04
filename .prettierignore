@@ -1,0 +1,9 @@
+node_modules
+**/.next/**
+**/_next/**
+**/dist/**
+public/
+package.json
+package-lock.json
+.gitignore
+*.md
